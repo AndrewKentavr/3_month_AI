@@ -1,0 +1,9 @@
+#Test files
+Test/
+
+#Other
+.agents/
+.codex/
+.git/
+
+.video/
