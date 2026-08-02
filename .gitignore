@@ -1,5 +1,7 @@
 #Test files
 Test/
+water_usage/stop_test.py
+
 
 #Other
 .agents/
@@ -7,3 +9,5 @@ Test/
 .git/
 
 .video/
+
+water_usage/__pycache__/
